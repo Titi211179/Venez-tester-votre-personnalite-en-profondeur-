@@ -96,4 +96,4 @@ VERDICTIF PRO est un **outil d’aide à l’évaluation et à la décision**. I
 
 Architecture VERDICTIF PRO v5.4  
 Protocole OMEGA v1.5  
-2025
+2026
