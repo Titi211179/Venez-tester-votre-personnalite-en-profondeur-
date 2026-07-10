@@ -6,7 +6,7 @@ Test psychométrique interactif en ligne basé sur le protocole **OMEGA v1.5**, 
 
 Site GitHub Pages :
 
-**https://titi211179.github.io/venez-tester-votre-personnalite-en-profondeur/**
+**https://titi211179.github.io/venez-tester-votre-personnalite-en-profondeur-/**
 
 > Si le dépôt porte encore son ancien nom, remplace ce lien par l’adresse affichée dans **Settings → Pages**.
 
