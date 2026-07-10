@@ -42,43 +42,6 @@ Le projet fonctionne dans un seul fichier web :
 - Aucun framework
 - Aucun serveur applicatif requis
 
-## Installation locale
-
-1. Télécharge le dépôt.
-2. Vérifie que la page principale s’appelle :
-
-```text
-index.html
-```
-
-3. Double-clique sur `index.html` pour ouvrir le test dans ton navigateur.
-
-## Publication avec GitHub Pages
-
-1. Ouvre le dépôt GitHub.
-2. Va dans **Settings → Pages**.
-3. Choisis :
-   - **Source** : Deploy from a branch
-   - **Branch** : `principal`
-   - **Folder** : `/(root)`
-4. Clique sur **Save**.
-5. Attends quelques minutes, puis clique sur **Visit site**.
-
-Structure recommandée :
-
-```text
-/
-├── index.html
-└── README.md
-```
-
-## Mise à jour du site
-
-Après modification de `index.html` :
-
-1. Valide avec **Commit changes**.
-2. Attends une à trois minutes.
-3. Recharge le site avec `Ctrl + F5`.
 
 ## Confidentialité
 
